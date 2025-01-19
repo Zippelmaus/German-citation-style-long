@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!-- Lange Zitierweise -->
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0">
   <info>
-    <title>Custom German Citation Style</title>
-    <id>https://github.com/YourUsername/YourRepository/raw/main/custom_german_citation.csl</id>
-    <link href="https://github.com/YourUsername/YourRepository/raw/main/custom_german_citation.csl" rel="documentation"/>
+    <title>Custom German Citation Style - Long</title>
+    <id>https://github.com/YourUsername/YourRepository/raw/main/custom_german_citation_long.csl</id>
+    <link href="https://github.com/YourUsername/YourRepository/raw/main/custom_german_citation_long.csl" rel="documentation"/>
     <updated>2025-01-16T12:00:00+00:00</updated>
     <author>
       <name>Your Name</name>
       <email>your.email@example.com</email>
     </author>
     <category field="generic-base"/>
-    <summary>A custom citation style for German bibliography format</summary>
+    <summary>A custom citation style for long German footnotes</summary>
   </info>
 
   <locale xml:lang="de">
